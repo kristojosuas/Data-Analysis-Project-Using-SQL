@@ -122,7 +122,7 @@ ALTER TABLE layoffs_staging2
 MODIFY COLUMN `date` DATE
 ;
 
--- 3. remove nulls
+-- remove nulls
 
 SELECT *
 FROM layoffs_staging2
