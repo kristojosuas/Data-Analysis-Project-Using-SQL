@@ -122,6 +122,8 @@ ALTER TABLE layoffs_staging2
 MODIFY COLUMN `date` DATE
 ;
 
+-- 3. remove nulls
+
 SELECT *
 FROM layoffs_staging2
 WHERE total_laid_off IS NULL
@@ -165,6 +167,8 @@ FROM layoffs_staging2
 WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL
 ;
+
+-- remove any columns and rows that are not necessary
 
 ALTER TABLE layoffs_staging2
 DROP COLUMN row_num
