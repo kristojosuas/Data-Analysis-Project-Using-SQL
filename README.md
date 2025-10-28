@@ -1,14 +1,12 @@
 # Data Analysis Using SQL
 
 ## Table of Contents
-- [Data Analysis Using SQL](#data-analysis-using-sql)
-  - [Table of Contents](#table-of-contents)
-    - [Project Overview](#project-overview)
-    - [Data Source](#data-source)
-    - [Tools](#tools)
-    - [Data Cleaning](#data-cleaning)
-    - [Exploratory Data Analysis](#exploratory-data-analysis)
-    - [Conclusion](#conclusion)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Conclusion](#conclusion)
 
 ### Project Overview
 This project aims to examine worldwide layoff data to uncover patterns, trends, and key insight. This analysis will help understand the factors influencing layoffs, the industries most affected and geographical trends.
