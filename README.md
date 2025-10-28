@@ -26,6 +26,7 @@ MySQL Workbench
 1. Remove Duplicates
 
    First, we identify duplicates using a window function to create a temporary row numbering system. Once confirmed, we'll create a new table with the _row_num_ column for duplicate management.
+
    ![duplicate_row](images/row-num.png)
 
    The rows that having row_num > 1 will be deleted.
@@ -40,6 +41,7 @@ MySQL Workbench
 3. Removing Nulls and Blank Values
 
 - Implemented a self-join method to automatically populate the missing industry information by referencing properly categorized entries of the same companies.
+
   ![populating](images/populating.png)
 
 4. Remove unnecessary column and rows
@@ -75,7 +77,7 @@ MySQL Workbench
 
 6. Annual Layoff Trends by Year (2020 - 2023)
 
-![year-layoffs](images/year-layoffs.png)
+   ![year-layoffs](images/year-layoffs.png)
 
 7. Total Layoffs Based by Industry
 
