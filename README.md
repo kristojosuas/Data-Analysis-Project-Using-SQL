@@ -56,18 +56,23 @@ MySQL Workbench
    The data shows that many companies that laid off all their employees were early-stage startups. These were young companies still in their beginning phases and didn't have much money to keep the business running.
 
 3. Companies With The Biggest Layoffs in Single Day
+   
    ![single-layoff](images/single-layoff.png)
 
 4. Companies With The Most Total Layoffs
+   
    ![most-layoff](images/most-layoff.png)
 
 5. Countries With The Most Total Layoffs
+   
    ![country-layoff](images/country-layoff.png)
 
 6. Total Layoffs Based on Year
+   
    ![year-layoffs](images/year-layoffs.png)
 
 7. Total Layoffs Based on Industry
+   
    ![industry-layoffs](images/industry-layoff.png)
    
 ### Conclusion
