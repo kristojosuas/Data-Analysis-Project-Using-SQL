@@ -45,7 +45,6 @@ MySQL Workbench
    
 ### Exploratory Data Analysis
 1. Dataset Date Range Verification
-
    ![date-range](images/date-range.png)
    
     This dataset contain layoff information from March 11, 2020 to March 3, 2023. This time period covers important world events like the COVID-19 pandemic that started in 2020 and the economic recovery that followed. Analyzing layoffs during these years helps us understand how various industries and countries responded to these economic challenges.
@@ -55,24 +54,19 @@ MySQL Workbench
 
    The data shows that many companies that laid off all their employees were early-stage startups. These were young companies still in their beginning phases and didn't have much money to keep the business running.
 
-3. Companies With The Biggest Layoffs in Single Day
-   
+3. Top Single-Day Layoff Events by Company
    ![single-layoff](images/single-layoff.png)
 
-4. Companies With The Most Total Layoffs
-   
-   ![most-layoff](images/most-layoff.png)
+4. Companies with Highest Cumulative Layoffs
+   ![highest-layoff](images/highest-layoff.png)
 
-5. Countries With The Most Total Layoffs
-   
+5. Geographic Distribution: Layoffs by Country
    ![country-layoff](images/country-layoff.png)
 
-6. Total Layoffs Based on Year
-   
+6.  Annual Layoff Trends by Year (2020 - 2023)
    ![year-layoffs](images/year-layoffs.png)
 
-7. Total Layoffs Based on Industry
-   
+7. Total Layoffs Based by Industry
    ![industry-layoffs](images/industry-layoff.png)
    
 ### Conclusion
